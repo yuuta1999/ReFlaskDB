@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.pythonPath": "~/.local/share/virtualenvs/user-i3S5r9hA/bin",
+    "python.linting.enabled": true
+}

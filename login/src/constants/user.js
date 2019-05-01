@@ -1,0 +1,15 @@
+export const Login = {
+  REQUEST: 'LOGIN_REQUEST',
+  SUCCESS: 'LOGIN_SUCCESS',
+  FAILURE: 'LOGIN_FAILURE'
+}
+
+export const Logout = {
+  REQUEST: 'LOGOUT_REQUEST'
+}
+
+export const Register = {
+  REQUEST: 'REGISTER_REQUEST',
+  SUCCESS: 'REGISTER_SUCCESS',
+  FAILURE: 'REGISTER_FAILURE'
+}
